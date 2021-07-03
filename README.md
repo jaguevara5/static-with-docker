@@ -1,0 +1,1 @@
+# static-with-docker
